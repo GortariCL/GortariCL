@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-💻 Frontend Software Engineer at MOBDEV<br>🖥 Fullstack Javascript Developer from Desafio Latam<br>🎓 I am always in continuous learning<br>📷 Music, movie and comic lover 
+💻 Frontend Software Engineer at MOBDEV | Scotiabank Chile<br>🖥 Fullstack Javascript Developer from Desafio Latam<br>🎓 I am always in continuous learning<br>📷 Music, movie and comic lover 
 
 
 ## 🌐 Socials:
